@@ -272,13 +272,13 @@ h1, h2, h3, h4, h5, h6 {
     cursor: pointer;
 }
 .next {
-    background: url("../img/next.png");
+    background: url("next.png");
     margin-right: 70px;
     right: 0;
     opacity: 0.3;
 }
 .prev {
-    background: url("../img/prev.png");
+    background: url("prev.png");
     margin-left: 70px;
     left: 0;
     opacity: 0.3;
